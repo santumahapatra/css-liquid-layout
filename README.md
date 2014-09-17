@@ -14,7 +14,7 @@ Please do a checkout of the branch for the approach.
 Checkout the code
 
 ```shell
-$ git clone css-liquid-layout
+$ git clone https://github.com/santumahapatra/css-liquid-layout
 ```
 
 To check how the approach using float, please checkout the using-float branch.
